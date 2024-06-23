@@ -1,1 +1,34 @@
-{"Ping": true, "History": true, "Passwords": true, "Cookies": true, "Feather": true, "Lunar": true, "Badlion": true, "LabyMod": true, "LauncherProfiles": true, "AnotherMC": true, "EpicGames": true, "Steam": true, "Injection": true, "Discord": true, "Telegram": false, "RiotClient": true, "ScreenShot": true, "ProcessList": true, "Wifi": true, "ComputerInfo": true, "StartUp": true, "ScaryGarry": false, "ShutDown": false, "ShutDownTimer": "0"}
+{
+    "Browser": {
+      "History": true,
+      "Passwords": true,
+      "Cookies": true
+    },
+    "Games": {
+      "Feather": true,
+      "Lunar": true,
+      "Badlion": true,
+      "LabyMod": true,
+      "AnotherMC": true,
+      "EpicGames": true,
+      "Steam": true,
+      "RiotClient": true,
+      "LauncherProfiles": true
+    },
+    "Social": {
+      "Discord": true,
+      "Telegram": false,
+      "Injection": true,
+      "Ping": true
+    },
+    "System Info": {
+      "ProcessList": true,
+      "ComputerInfo": true,
+      "StartUp": true,
+      "ScreenShot": true,
+      "Wifi": false,
+      "ScaryGarry": false,
+      "ShutDown": false,
+      "ShutDownTimer": "0"
+    }
+  }
